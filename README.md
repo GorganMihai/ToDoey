@@ -3,9 +3,8 @@ To Doey
 This is a To-do list app which integrates elements from CocoaPods an use Realm Database
 
 ## Screenshots
+<img src="./Img/addCategory.png" width = 350 style="padding-right:70" > <img src="./Img/inCategory.png" width = 350 >
 
-<img src="./Img/addCategory.png" width = 600 >
-<img src="./Img/inCategory.png" width = 600 >
 
 ## Features
 * Realm Database
